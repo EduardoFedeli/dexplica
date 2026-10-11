@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+.vercel/
+
+# Ideias de conteúdo do Canal: só na máquina do Eduardo
+docs/conteudo/ideias.md
+
+# Senhas ficam só nos secrets do GitHub e da Vercel
+.env*
+!.env.example
